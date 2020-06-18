@@ -1,6 +1,6 @@
 ![goStack](.github/gostack.png)
 <h1 align="center">
-  🚀 Conceitos ReactJS 🚀
+  🚀 Fronend ReactJS 🚀
   <p align="center">
   <img src="https://img.shields.io/badge/tech-front--end-green" />
 
