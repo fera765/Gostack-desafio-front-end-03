@@ -1,4 +1,4 @@
-![goStack](.github/gostack.png)
+<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 <h1 align="center">
   🚀 Fronend ReactJS 🚀
   <p align="center">
