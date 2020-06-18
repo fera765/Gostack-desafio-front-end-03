@@ -14,6 +14,7 @@ div {
 }
 
 div li {
+  font-size: 18px;
   display: flex;
   align-items: center;
 }
@@ -33,6 +34,18 @@ button {
   font-size: 14px;
 }
 
+div li button.like {
+  margin-left: 5px;
+  width: 130x;
+  background: #7159c1;
+  color: #FFF;
+  font-weight: bold;
+}
+div li button.like small {
+  margin-left: 5px;
+  font-size: 14px;;
+  font-weight: bold;
+}
 div li button {
   margin: 0 15px;
   background: #ca4949;
